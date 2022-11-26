@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Url
 
-# (https://aquicor.epizy.com/)
+# https://aquicor.epizy.com/
 
 ## Capturas
 
